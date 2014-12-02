@@ -1,4 +1,4 @@
-# DRIVING IN JAPAN AND PASSING THE DRIVER’S TEST
+# Driving in Japan and Passing the Driver's Test
 
 by: Melissa Fedak
 
