@@ -75,7 +75,7 @@ Find the person who is renting (or willing to rent) you a parking space within 2
 
 Bring all necessary documents to the local Land Transport Office (ikuun jimusho).  If it is a different Office than the car was previously registered in, then you will have to get new license plates as well.  If possible, go together with the previous owner, bringing all relevant items.  Note that the officials will be very, very particular about details.  If you fill out a form wrong, you will have to do it over or come in another day.
 
-*** Note that the Personal Seal Certificate is only valid for 3 months!  If it has been longer than that, for either the buyer or the seller, you need a new certificate (which may be difficult if the seller has left the country.) ***
+*** Note that the Personal Seal Certificate is only valid for 3 months!  If it has been longer than that, for either the buyer or the seller, you need a new certificate (which may be difficult if the seller has left the country.) 
 
 If you purchase through a dealer, you generally need only your Personal Seal Certificate and the Certificate of Permission for Use of Parking.  They will take care of the rest.
 
@@ -86,13 +86,13 @@ Used cars are worthless without shaken.  Period.  If the car you are buying has 
 
 The prices below are what you can expect to pay for a car with full shaken (valid for 2 years; 3 years if brand new)
 
-|                                         |White Plate                 | Yellow Plate       |
-|-----------------------------------------|----------------------------|--------------------|
-|Cost of a Car (used)                     | ¥240,000 – 300,000         | ¥160,000 – 220,000 |
-|Cost of a Car (new)                      | ¥1,000,000 and up          | under ¥1,000,000   |
-|Automobile Acquisition Tax               | 5% of the price of the car                     ||
-|Automobile Tonnage Tax (based on weight) | ¥50,000 – 75,000           | under ¥50,000      |
-|Name Change                              | ¥10,000 - ¥25,000          | ¥3,000             |
+|                                         |White Plate                 | Yellow Plate              |
+|-----------------------------------------|----------------------------|---------------------------|
+|Cost of a Car (used)                     | ¥240,000 – 300,000         | ¥160,000 – 220,000        |
+|Cost of a Car (new)                      | ¥1,000,000 and up          | under ¥1,000,000          |
+|Automobile Acquisition Tax               | 5% of the price of the car | 5% of the price of the car|
+|Automobile Tonnage Tax (based on weight) | ¥50,000 – 75,000           | under ¥50,000             |
+|Name Change                              | ¥10,000 - ¥25,000          | ¥3,000                    |
 
 ### Shaken
 Shaken is a required road-worthy car inspection.  You can inspect your car by yourself, but most people bring their car to a dealer, who does everything for a fee.  (If you do it yourself – and you must have a decent command of Japanese to do it – note that White Plates are inspected by the "Transport Bureau Office" and Yellow Plates are inspected by the "Light Motor Vehicle Inspection Organization".)   Most people have it done by their dealer or a gasoline stand advertising  車検.  Shaken must be renewed within one month of the expiry date as shown on the sticker in your front window.
