@@ -100,3 +100,18 @@ Shaken is a required road-worthy car inspection.  You can inspect your car by yo
 ### WHAT ARE THE COSTS OF OWNING?
 Owning a car is an expensive prospect in Japan, mainly because of inspection fees.  The mandatory insurance covers the other party, but it is strongly recommended that you get the optional Comprehensive Vehicle Insurance (ninni hoken) which covers third party expenses beyond the compulsory and which also covers you and your passengers.  Unlimited compensation insurance is highly recommended.
 
+|    | White Plate | Yellow Plate |
+|---|-----------------|------------------|
+| Shaken (road-worthy car inspection, good for two years) | 120,000 yen and up | 70,000 - 100,000 yen |
+| Older-Than-10-Year-Inspection (If your car is older than 10 years old, then you need a mini-shaken a year after you get shaken.) | (from 10,000 yen up to half the price of your shaken) |(from 10,000 yen up to half the price of your shaken)| 
+| Compulsory Third Party Insurance	| (included with shaken) | (included with shaken)|
+| Mandatory Liability Insurance (per year)	| 30,000 yen	| 20,000 yen |
+| Optional Insurance (per year)	| 40,000 - 70,000 yen | 40,000 - 70,000 yen | 
+| Automobile Tax (per year, depending on size) | 30,000 - 50,000 yen | 5,000 - 20,000 yen | 
+| Gasoline	| about 110 yen per liter (about 4000 yen per tank) | about 110 yen per liter (about 4000 yen per tank) |
+| Permanent Parking Space (per month)	| 0 yen (in the countryside) - 20,000 yen (in the big city) | 0 yen (in the countryside) - 20,000 yen (in the big city) | 
+| Short-term Parking	| 100 - 500 yen per hour; 500 - 5000 yen per day | 100 - 500 yen per hour; 500 - 5000 yen per day| 
+| Other Maintenance (tires, equipment, repairs) | 0 - 50,000 yen per year | 0 - 50,000 yen per year | 
+
+### 
+
