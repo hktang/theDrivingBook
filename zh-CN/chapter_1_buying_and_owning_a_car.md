@@ -21,10 +21,10 @@ A: 最简单的办法就是出国之前在当地机动车协会申领（译注�
 
 A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇主机构无权阻挠你买车或用车，甚至开车上班。但是，他们有权限制你开自己的车往返于不同工作场所。有些单位会想你提供汽车或帮你购买汽车，有些单位会设法打消你买车的念头。
 
-## WHAT SHOULD I BUY?
-There are variety of vehicles available to drive in Japan.  Cars of all sizes, motorcycles, and scooters, each with different license rules, traffic rules and costs share the road.   Deciding what to buy depends on your needs.  If you only need to get around town occasionally, you may want a smaller car or scooter.  If you want to take friends and explore Japan’s roads, a larger, more powerful car will suit you better.  For regular commuters, it may come down to a simple preference.
+## 哪款适合我？
+日本的汽车种类众多。各种大小的汽车、摩托车和踏板车都允许上路，牌照制度、交通规则和费用各不相同。要根据你的需求来决定买什么样的机动车。如果你只是偶尔需要进城，可以考虑体积较小的汽车或者踏板车。如果你想带上三五知己一起去巡访日本道路，不妨购买体积和排量都相对较大的车。如果是平常上下班之用，那往往只取决于个人的偏好。
 
-### Scooters
+### 踏板车（Scooter）
 If you decide to drive a 50cc or less scooter (good for low-speed around-town driving in decent weather), the buying process is somewhat easier (and much of the paperwork may be taken care of by the scooter shop.)  As for licensing, you can get a separate scooter license which is unrelated to a regular driver’s license.  To get one, you are only required to take a paper test and a lesson; no practical test.  Please see the section on The Written Exam for more details.
 
 ### Motorcycles
