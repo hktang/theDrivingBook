@@ -39,9 +39,9 @@ For exhaustive information on owning and driving scooters and motorbikes in Japa
 ### Cars
 As for cars, there are two main types:
 
- ● White-plate cars:  These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
+ ● **White-plate cars**:  These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
 
- ● Yellow-plate cars:  These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
+ ● **Yellow-plate cars**:  These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
 
 #### Buying
 You have two choices when purchasing a car.  Either purchase from a dealer (new or used cars) or from another person.  The benefit to purchasing from a dealer is that the dealer will do a large amount of the paperwork.  Also, there is some assurance of quality.  The benefit to purchasing from another person is that the price is likely to be a lot cheaper.  If you want to buy from another person, but do not want to do the paperwork, you can hire a dealer or pay someone at the Land Transport Office to do it for you.
@@ -54,21 +54,21 @@ The two basic things you have to do when you a buy a car are:
 These two steps involve a great deal of paperwork and complicated Japanese forms.  Taking a Japanese-speaker with you is practically a necessity if you cannot read or speak Japanese.  If you do not use a dealer, you will need the below (you may not need everything for a Yellow-Plate, but you will need most of it):
 
 #### Documents you need to buy a car:
-1.	Alien Registration Card (gaikokujin torokushomeisho) or Alien Registration Completion Certificate if your card has not been issued yet.
-2.	Personal Seal (inkan or hanko) 
-3.	Personal Seal Certificate (inkan shomeisho) from your local public office. 
-4.	Parking Space Certificate (shako shomeisho) from the police station in the municipality where you applied for alien registration. (This may not be needed in a rural area.  See below on how to get one.)
-5.	Valid Driver's License (unten menkyo)
+1.	**Alien Registration Card** (*gaikokujin torokushomeisho*) or Alien Registration Completion Certificate if your card has not been issued yet.
+2.	**Personal Seal** (*inkan* or *hanko*) 
+3.	**Personal Seal Certificate** (*inkan shomeisho*) from your local public office. 
+4.	**Parking Space Certificate** (*shako shomeisho*) from the police station in the municipality where you applied for alien registration. (This may not be needed in a rural area.  See below on how to get one.)
+5.	**Valid Driver's License** (*unten menkyo*)
 
 #### Documents you need to transfer a car: 
 All of the above as well as:
-1.	Deed of Transfer (joto shomeisho)
-2.	Personal Seal Certificate (inkan shomeisho) of the previous owner
-3.	Alien Registration Card (or juminhyo if they are Japanese) of the previous owner.
-4.	Letter of Attorney (inin-jyo) stamped by previous owner if possible
-5.	Compulsory Insurance Certificate (jibaiseki hoken-sho) from the previous owner (or, if you are getting it for the first time, you can only do so once the shaken is in your name, so do shaken first.)
-6.	Shaken Inspection Certificate (shaken-sho) from the previous owner
-7.	Proof of Payment of Automobile Tax (jidoushazei noufu shoumeisho) from previous owner (may not be needed)
+1.	**Deed of Transfer** (*joto shomeisho*)
+2.	**Personal Seal Certificate** (*inkan shomeisho*) of the previous owner
+3.	**Alien Registration Card** (or *juminhyo* if they are Japanese) of the previous owner.
+4.	**Letter of Attorney** (*inin-jyo*) stamped by previous owner if possible
+5.	**Compulsory Insurance Certificate** (*jibaiseki hoken-sho*) from the previous owner (or, if you are getting it for the first time, you can only do so once the shaken is in your name, so do shaken first.)
+6.	**Shaken Inspection Certificate** (*shaken-sho*) from the previous owner
+7.	**Proof of Payment of Automobile Tax** (*jidoushazei noufu shoumeisho*) from previous owner (may not be needed)
 
 ### How do I get proof of a parking space? 
 Find the person who is renting (or willing to rent) you a parking space within 2km of where you live, often the landlord, building owner, real estate agent, building management company of the building you live in, and ask for an official document showing that the space is yours.  This document is a Certificate of Permission for Use of Parking (hokan basho shodaku shomei) and it must be stamped by the agent.  Then go to the local police station and fill out an application form as well as an application form for a badge (hyosho) so you can certify the space.  You have to draw two maps in a detailed manner: one of the area (including nearby landmarks) and one of the parking space, including the space number if there is one, the dimensions (in meters) of the spot and the width of any adjacent roads.   This takes about a week to process.  Note that small / light cars may not need this certificate in less urban areas.
