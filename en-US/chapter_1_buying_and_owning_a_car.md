@@ -60,13 +60,14 @@ These two steps involve a great deal of paperwork and complicated Japanese forms
 4.	**Parking Space Certificate** (*shako shomeisho*) from the police station in the municipality where you applied for alien registration. (This may not be needed in a rural area.  See below on how to get one.)
 5.	**Valid Driver's License** (*unten menkyo*)
 
-#### Documents you need to transfer a car: 
+#### Documents you need to transfer acar: 
 All of the above as well as:
+
 1.	**Deed of Transfer** (*joto shomeisho*)
 2.	**Personal Seal Certificate** (*inkan shomeisho*) of the previous owner
 3.	**Alien Registration Card** (or *juminhyo* if they are Japanese) of the previous owner.
 4.	**Letter of Attorney** (*inin-jyo*) stamped by previous owner if possible
-5.	**Compulsory Insurance Certificate** (*jibaiseki hoken-sho*) from the previous owner (or, if you are getting it for the first time, you can only do so once the shaken is in your name, so do shaken first.)
+5.	**Compulsory Insurance Certificate** (*jibaiseki hoken-sho*) from the previous owner (or, if you are getting it for the first time, you can only do so once the *shaken* is in your name, so do shaken first.)
 6.	**Shaken Inspection Certificate** (*shaken-sho*) from the previous owner
 7.	**Proof of Payment of Automobile Tax** (*jidoushazei noufu shoumeisho*) from previous owner (may not be needed)
 
