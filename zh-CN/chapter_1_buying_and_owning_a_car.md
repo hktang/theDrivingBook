@@ -28,11 +28,11 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 排量50cc以下的踏板车（译注：中国大陆又称轻便摩托车、小毛驴、小电驴等）适用于在天气尚可的条件下在城市内低速穿梭，如果你打算开踏板车的话，购买流程还算方便，而且大部分的购买手续都可以让摩托车店家代劳。你可以申请一个专门的踏板车驾照，该驾照和普通驾照并无关系。只要通过笔试和参加一节讲座，便可以获得踏板车驾照，不需要路考。详见“笔试”一章。
 
 ### 摩托车
-注意，无论是哪种摩托车，如果要在日本国内使用国际驾照驾驶，那么你的母国驾照必须注明允许驾驶摩托车，一般汽车驾照还不够。日本的摩托车驾照有两种：普通摩托车驾照适用于 50cc 以上 400 cc （含）以下的摩托车，大型摩托车驾照适用于排量 401 cc 及以上的摩托车。
+注意，无论是哪种摩托车，如果要在日本国内使用国际驾照驾驶，那么你的母国驾照必须注明允许驾驶摩托车，一般汽车驾照还不够。日本的摩托车驾照有两种：普通摩托车驾照适用于 50cc 以上 400 cc （含）以下的摩托车，大型摩托车驾照适用于 401cc 和更高排量的摩托车。
 
-For exhaustive information on owning and driving scooters and motorbikes in Japan, read the Japan Biker FAQ at http://www.thejapanfaq.com/bikerfaq-toc.html.
+关于在日本驾驶踏板车和摩托车的所有及一切资料，请阅读 Japan Biker FAQ http://www.thejapanfaq.com/bikerfaq-toc.html （英文）。
 
-### Cars
+### 汽车
 As for cars, there are two main types:
 
  ● **White-plate cars**:  These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
