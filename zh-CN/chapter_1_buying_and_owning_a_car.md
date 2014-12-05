@@ -15,7 +15,7 @@ A: 可以。只要你拥有日本驾照，或者**同时持有**国际驾照和�
 
 ### Q: 哪里可以申领国际驾照？
 
-A: 最简单的办法就是出国之前在当地机动车协会申领（译注：中国大陆地区？呵呵）。但如果你已经来到日本，一般也可以通过邮递服务获得。只能从自己的国家获取国际驾照。请选用正规机构，谨防上当受骗。（ 各大机动车协会列表详见： http://drivers.com/article/207/ ）。法律规定，国际驾照有效期最长一年，不能更新——除非你在母国连续逗留三个月以上。
+A: 最简单的办法就是出国之前在当地机动车协会申领（译注：中国大陆地区？呵呵）。即使你已经身在日本，一般也可以通过邮递服务获得。只能从自己的国家获取国际驾照。请选用正规机构，谨防上当受骗。（ 各大机动车协会列表详见： http://drivers.com/article/207/ ）。法律规定，国际驾照有效期最长一年，不能更新——除非你在母国连续逗留三个月以上。
 
 ### Q: 我可以在日本拥有汽车吗？
 
@@ -35,7 +35,7 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 ### 汽车
 汽车大致分两种：
 
- ● **白牌车**：These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
+ ● **白牌车**：顾名思义，These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
 
  ● **黄牌车**：These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
 
