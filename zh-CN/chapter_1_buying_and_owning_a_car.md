@@ -24,11 +24,11 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 ## 哪款适合我？
 日本的汽车种类众多。各种大小的汽车、摩托车和踏板车都允许上路，牌照制度、交通规则和费用各不相同。要根据你的需求来决定买什么样的机动车。如果你只是偶尔需要进城，可以考虑体积较小的汽车或者踏板车。如果你想带上三五知己一起去巡访日本道路，不妨购买体积和排量都相对较大的车。如果是平常上下班之用，那往往只取决于个人的偏好。
 
-### 轻便摩托车
-排量50cc以下的轻便摩托车（译注：中国大陆又称踏板车、小毛驴、小电驴等）适用于在天气尚可的条件下在城市内低速穿梭，如果你打算开轻便摩托车，那么购买还算方便，大部分的购买手续都可以让摩托车店家代劳。你可以申请一个专门的轻便摩托车驾照，该驾照和普通驾照并无关系。只要通过笔试和参加一节讲座，便可以获得轻便摩托车驾照，不需要路考。详见“笔试”一章。
+### 踏板车
+排量50cc以下的踏板车（译注：中国大陆又称轻便摩托车、小毛驴、小电驴等）适用于在天气尚可的条件下在城市内低速穿梭，如果你打算开踏板车的话，购买流程还算方便，而且大部分的购买手续都可以让摩托车店家代劳。你可以申请一个专门的踏板车驾照，该驾照和普通驾照并无关系。只要通过笔试和参加一节讲座，便可以获得踏板车驾照，不需要路考。详见“笔试”一章。
 
-### Motorcycles
-Note that for any motorcycle, you can only drive it in Japan with your International Driver’s Permit IF it is specified on it that you are allowed to on your home license.  A plain car license is not sufficient.  There are two types of motorcycle licenses: Normal, for motorcycles over 50cc up to 400 cc, and Large, for motorcycles 401 cc and over.
+### 摩托车
+注意，无论是哪种摩托车，如果要在日本国内使用国际驾照驾驶，那么你的母国驾照必须注明允许驾驶摩托车，一般汽车驾照还不够。日本的摩托车驾照有两种：普通摩托车驾照适用于 50cc 以上 400 cc （含）以下的摩托车，大型摩托车驾照适用于排量 401 cc 及以上的摩托车。
 
 For exhaustive information on owning and driving scooters and motorbikes in Japan, read the Japan Biker FAQ at http://www.thejapanfaq.com/bikerfaq-toc.html.
 
