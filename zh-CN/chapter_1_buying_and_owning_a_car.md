@@ -33,11 +33,11 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 关于在日本驾驶踏板车和摩托车的所有及一切资料，请阅读 Japan Biker FAQ http://www.thejapanfaq.com/bikerfaq-toc.html （英文）。
 
 ### 汽车
-As for cars, there are two main types:
+汽车大致分两种：
 
- ● **White-plate cars**:  These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
+ ● **白牌车**：These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
 
- ● **Yellow-plate cars**:  These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
+ ● **黄牌车**：These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
 
 #### Buying
 You have two choices when purchasing a car.  Either purchase from a dealer (new or used cars) or from another person.  The benefit to purchasing from a dealer is that the dealer will do a large amount of the paperwork.  Also, there is some assurance of quality.  The benefit to purchasing from another person is that the price is likely to be a lot cheaper.  If you want to buy from another person, but do not want to do the paperwork, you can hire a dealer or pay someone at the Land Transport Office to do it for you.
