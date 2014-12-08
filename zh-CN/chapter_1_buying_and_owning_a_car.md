@@ -35,7 +35,7 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 ### 汽车
 汽车大致分两种：
 
- ● **白牌车**：顾名思义，These cars, recognizable by their white-colored license plate, are what typical cars look like in most countries.  White-plates are generally more spacious, safer, and have more power that Yellow-plates.  They are more expensive to buy and upkeep.  A car does not have to be particularly large to be a white plate, but it is always wider than a yellow-plate.
+ ● **白牌车**：顾名思义，这种白色车牌的汽车和世界上其他国家一般车辆看起来无甚不同。白牌车一般比黄牌车更宽敞、安全，马力也更大，买车和养车也相对较贵。白牌车的大小并没有规定，但总是比黄牌车要宽。
 
  ● **黄牌车**：These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
 
