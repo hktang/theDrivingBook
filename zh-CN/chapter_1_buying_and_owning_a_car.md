@@ -35,14 +35,14 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 ### 汽车
 汽车大致分两种：
 
- ● **白牌车**：顾名思义，这种白色车牌的汽车和世界上其他国家一般车辆看起来无甚不同。白牌车一般比黄牌车更宽敞、安全，马力也更大，买车和养车也相对较贵。白牌车的大小并没有规定，但总是比黄牌车要宽。
+ ● **白牌车**：顾名思义，这种白色车牌的汽车和世界上其他国家一般车辆看起来没有什么不同。白牌车一般比黄牌车更宽敞、安全，马力也更大，买车和养车也相对较贵。白牌车并不需要满足特定大小，但车身总是比黄牌车要宽。
 
- ● **黄牌车**：These are narrow, around-town cars.  There is not a lot of leg room or trunk (boot) space.  They barely make top speeds on an expressway and are not as safe.  They are, however, a lot cheaper to own and run. 
+ ● **黄牌车**：黄牌车的车身较窄，多用于市镇街道。腿部空间和后备箱空间都不怎么多。黄牌车要费一番功夫才能勉强达到高速公路的最高限速，而且也相对没那么安全。不过，黄牌车的购买和使用都便宜很多。 
 
-#### Buying
-You have two choices when purchasing a car.  Either purchase from a dealer (new or used cars) or from another person.  The benefit to purchasing from a dealer is that the dealer will do a large amount of the paperwork.  Also, there is some assurance of quality.  The benefit to purchasing from another person is that the price is likely to be a lot cheaper.  If you want to buy from another person, but do not want to do the paperwork, you can hire a dealer or pay someone at the Land Transport Office to do it for you.
+#### 买车
+无论是新车还是二手车，购买途径都有两种：一是经销商，而是个人。从经销商处购买的好处是，他们会办理很多种手续。质量也能得到一定的保证。经个人途径购买的好处是，价格可能会低很多。如果你想向个人购买，但又不希望办理各种手续，你可以自费找一家经销商或者地方运输局的人员代办。
 
-The two basic things you have to do when you a buy a car are:
+买车时，以下两件事必不可少：
 
 + Register the vehicle and transfer ownership
 + Verify a parking space
