@@ -44,28 +44,28 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 
 买车时，以下两件事必不可少：
 
-+ Register the vehicle and transfer ownership
-+ Verify a parking space
++ 车辆登记和过户
++ 车库认证
 
-These two steps involve a great deal of paperwork and complicated Japanese forms.  Taking a Japanese-speaker with you is practically a necessity if you cannot read or speak Japanese.  If you do not use a dealer, you will need the below (you may not need everything for a Yellow-Plate, but you will need most of it):
+这个项目需要办理繁琐的手续，涉及无数复杂的日文表格。如果你不会日语，那么基本上必须找一个日本人同行。如果你不委托经销商办理，那么，你需要准备下列资料（即使是黄牌车，也需要下列大部分文件）：
 
-#### Documents you need to buy a car:
-1.	**Alien Registration Card** (*gaikokujin torokushomeisho*) or Alien Registration Completion Certificate if your card has not been issued yet.
-2.	**Personal Seal** (*inkan* or *hanko*) 
-3.	**Personal Seal Certificate** (*inkan shomeisho*) from your local public office. 
-4.	**Parking Space Certificate** (*shako shomeisho*) from the police station in the municipality where you applied for alien registration. (This may not be needed in a rural area.  See below on how to get one.)
-5.	**Valid Driver's License** (*unten menkyo*)
+#### 购车所需文件
+1.	**外国人登录证/在留卡**。如果外国人登录证或在留卡还没有领取，则需要**外国人登录完了证明**。
+2.	**个人印章** (*印鑑* 或 *判子*) 
+3.	市町村役所开具的 **印鉴登录证明书**
+4.	申请外国人登录所在城市警察局开具的 **车库证明书** （农村地区可能不需要。如何申请该证明书见下文。）
+5.	**有效的驾照** （*運転免許*）
 
-#### Documents you need to transfer acar: 
-All of the above as well as:
+#### 车辆过户所需文件
+以上全部，以及：
 
-1.	**Deed of Transfer** (*joto shomeisho*)
-2.	**Personal Seal Certificate** (*inkan shomeisho*) of the previous owner
-3.	**Alien Registration Card** (or *juminhyo* if they are Japanese) of the previous owner.
-4.	**Letter of Attorney** (*inin-jyo*) stamped by previous owner if possible
-5.	**Compulsory Insurance Certificate** (*jibaiseki hoken-sho*) from the previous owner (or, if you are getting it for the first time, you can only do so once the *shaken* is in your name, so do shaken first.)
-6.	**Shaken Inspection Certificate** (*shaken-sho*) from the previous owner
-7.	**Proof of Payment of Automobile Tax** (*jidoushazei noufu shoumeisho*) from previous owner (may not be needed)
+1.	**过户契约** (*譲渡証明書*)
+2.	转出人的 **印鉴登录证明书**
+3.	转出人的 **外国人登录证/在留卡**。如果是日本人，则提供*住民票*
+4.	最好由转出人盖章的 **委托书** (*委任状*)
+5.	转出人的 **强制保险单** (*自賠責保険証*)。 如果是首次购车，则需要先做*車検*，因为车检需要有你的名字才可以。
+6.	转出人的 **车检证明** (*車検証*)
+7.	转出人的 **汽车税缴纳证明** (*自動車税納付証明書*；可能不需要。) 
 
 ### How do I get proof of a parking space? 
 Find the person who is renting (or willing to rent) you a parking space within 2km of where you live, often the landlord, building owner, real estate agent, building management company of the building you live in, and ask for an official document showing that the space is yours.  This document is a Certificate of Permission for Use of Parking (hokan basho shodaku shomei) and it must be stamped by the agent.  Then go to the local police station and fill out an application form as well as an application form for a badge (hyosho) so you can certify the space.  You have to draw two maps in a detailed manner: one of the area (including nearby landmarks) and one of the parking space, including the space number if there is one, the dimensions (in meters) of the spot and the width of any adjacent roads.   This takes about a week to process.  Note that small / light cars may not need this certificate in less urban areas.
