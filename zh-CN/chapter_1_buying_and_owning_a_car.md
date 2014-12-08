@@ -51,7 +51,7 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 
 #### 购车所需文件
 1.	**外国人登录证/在留卡**。如果外国人登录证或在留卡还没有领取，则需要**外国人登录完了证明**。
-2.	**个人印章** (*印鑑* 或 *判子*) 
+2.	**个人印章** （*印鑑* 或 *判子*） 
 3.	市町村役所开具的 **印鉴登录证明书**
 4.	申请外国人登录所在城市警察局开具的 **车库证明书** （农村地区可能不需要。如何申请该证明书见下文。）
 5.	**有效的驾照** （*運転免許*）
@@ -59,15 +59,15 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 #### 车辆过户所需文件
 以上全部，以及：
 
-1.	**过户契约** (*譲渡証明書*)
+1.	**过户契约** （*譲渡証明書*）
 2.	转出人的 **印鉴登录证明书**
 3.	转出人的 **外国人登录证/在留卡**。如果是日本人，则提供*住民票*
-4.	最好由转出人盖章的 **委托书** (*委任状*)
-5.	转出人的 **强制保险单** (*自賠責保険証*)。 如果是首次购车，则需要先做*車検*，因为车检需要有你的名字才可以。
-6.	转出人的 **车检证明** (*車検証*)
-7.	转出人的 **汽车税缴纳证明** (*自動車税納付証明書*；可能不需要。) 
+4.	最好由转出人盖章的 **委托书** （*委任状*）
+5.	转出人的 **强制保险单** （*自賠責保険証*）。 如果是首次购车，则需要先做*車検*，因为车检需要有你的名字才可以。
+6.	转出人的 **车检证明** （*車検証*）
+7.	转出人的 **汽车税缴纳证明** （*自動車税納付証明書*；可能不需要。）
 
-### How do I get proof of a parking space? 
+### 车库证明书如何办理？
 Find the person who is renting (or willing to rent) you a parking space within 2km of where you live, often the landlord, building owner, real estate agent, building management company of the building you live in, and ask for an official document showing that the space is yours.  This document is a Certificate of Permission for Use of Parking (hokan basho shodaku shomei) and it must be stamped by the agent.  Then go to the local police station and fill out an application form as well as an application form for a badge (hyosho) so you can certify the space.  You have to draw two maps in a detailed manner: one of the area (including nearby landmarks) and one of the parking space, including the space number if there is one, the dimensions (in meters) of the spot and the width of any adjacent roads.   This takes about a week to process.  Note that small / light cars may not need this certificate in less urban areas.
 
 Bring all necessary documents to the local Land Transport Office (ikuun jimusho).  If it is a different Office than the car was previously registered in, then you will have to get new license plates as well.  If possible, go together with the previous owner, bringing all relevant items.  Note that the officials will be very, very particular about details.  If you fill out a form wrong, you will have to do it over or come in another day.
@@ -78,7 +78,7 @@ If you purchase through a dealer, you generally need only your Personal Seal Cer
 
 The entire process may take up to 10 days for a White Plate (but may be done in a day if a Yellow Plate.)
 
-## WHAT ARE THE COSTS OF BUYING?
+## 买车费用如何？
 Used cars are worthless without shaken.  Period.  If the car you are buying has less than a year of shaken, it should be virtually free, unless it is fairly new and in very good condition.  The same logic applies when you are selling.  If you have no shaken left and do not get more, you might not be able to sell your car (or even give it away) and you will have to pay a scrap dealer to take it off your hands which can cost ¥10,000 to ¥20,000. 
 
 The prices below are what you can expect to pay for a car with full shaken (valid for 2 years; 3 years if brand new)
@@ -91,7 +91,7 @@ The prices below are what you can expect to pay for a car with full shaken (vali
 |Automobile Tonnage Tax (based on weight) | ¥50,000 – 75,000           | under ¥50,000             |
 |Name Change                              | ¥10,000 - ¥25,000          | ¥3,000                    |
 
-### Shaken
+### 车检
 Shaken is a required road-worthy car inspection.  You can inspect your car by yourself, but most people bring their car to a dealer, who does everything for a fee.  (If you do it yourself – and you must have a decent command of Japanese to do it – note that White Plates are inspected by the "Transport Bureau Office" and Yellow Plates are inspected by the "Light Motor Vehicle Inspection Organization".)   Most people have it done by their dealer or a gasoline stand advertising  車検.  Shaken must be renewed within one month of the expiry date as shown on the sticker in your front window.
 
 ### WHAT ARE THE COSTS OF OWNING?
