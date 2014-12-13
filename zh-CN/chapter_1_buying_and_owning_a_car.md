@@ -70,23 +70,23 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 ### 车库证明书如何办理？
 你首先需要找一个距离你住处两公里范围以内的停车场所，然后向它的租出人（一般是房东、建筑业主、地产经纪，或者你住所的物业公司）索取证明停车空间使用权的证明，也就是提车场利用许可（保管場所承諾証明），证明书必须由经纪盖章。然后，前往地方警署填写证明申请，还要填表申请一个小牌子用来展示停车用地的归属。你需要画两份详细的地图：一份是停车场所在地略图（包括周边主要设施），另一份是停车场地详图，包括停车场编号（如有）、尺寸（以米为单位）、以及相邻路面宽度。这项手续大概需要一周时间。注意，在乡村地区，小型车、轻便车可能不需要车库证明。
 
-Bring all necessary documents to the local Land Transport Office (ikuun jimusho).  If it is a different Office than the car was previously registered in, then you will have to get new license plates as well.  If possible, go together with the previous owner, bringing all relevant items.  Note that the officials will be very, very particular about details.  If you fill out a form wrong, you will have to do it over or come in another day.
+备齐所有必要文件后，下一步是去地方运输局（自動車検査登録事務所）登记。如果汽车登记所在事务所和转手前不同，那么你会得到一块新的车牌。尽量和原车主一起前往，提前把所有相关文件都准备妥当。注意，办理手续的官员是细节控。表格如有错漏，那你必须重新填写，择日再来。
 
-*** Note that the Personal Seal Certificate is only valid for 3 months!  If it has been longer than that, for either the buyer or the seller, you need a new certificate (which may be difficult if the seller has left the country.) 
+*** 注意，个人印鉴登录证明的有效期只有三个月。无论是买家还是卖家，只要一方的证明超过三个月期限，都必须重新办理（万一卖家已经离开日本，事情将会很麻烦）。 
 
-If you purchase through a dealer, you generally need only your Personal Seal Certificate and the Certificate of Permission for Use of Parking.  They will take care of the rest.
+从经销商处买车时，一般只需要你自己的个人印鉴登录证明书以及车库证明书。其他手续卖家会包揽办理。
 
-The entire process may take up to 10 days for a White Plate (but may be done in a day if a Yellow Plate.)
+买白牌车时，整个登记过程可能长达10天。黄牌车可能只需要半天即可。
 
 ## 买车费用如何？
-Used cars are worthless without shaken.  Period.  If the car you are buying has less than a year of shaken, it should be virtually free, unless it is fairly new and in very good condition.  The same logic applies when you are selling.  If you have no shaken left and do not get more, you might not be able to sell your car (or even give it away) and you will have to pay a scrap dealer to take it off your hands which can cost ¥10,000 to ¥20,000. 
+没有『车检』的二手车值个屁。句号。如果你要入手的车车检只剩下不到一年，那么这辆车的价格应该与白送无异。除非车子还很新、车况良好。 对于卖车的情况也成立。如果你的车检已到期也不计划续期，那么你可能无法将它转手（白送也不行），而且必须付一两万日元给废品回收公司才能将它处理掉。 
 
-The prices below are what you can expect to pay for a car with full shaken (valid for 2 years; 3 years if brand new)
+下表为带全新车检（二手车2年，新车3年）汽车的大概售价。
 
-|                                         |White Plate                 | Yellow Plate              |
+|                                         |白牌                 | 黄牌              |
 |-----------------------------------------|----------------------------|---------------------------|
-|Cost of a Car (used)                     | ¥240,000 – 300,000         | ¥160,000 – 220,000        |
-|Cost of a Car (new)                      | ¥1,000,000 and up          | under ¥1,000,000          |
+|车辆费用（二手）                     | ¥240,000 – 300,000         | ¥160,000 – 220,000        |
+|车辆费用（新车）                      | ¥1,000,000 and up          | under ¥1,000,000          |
 |Automobile Acquisition Tax               | 5% of the price of the car | 5% of the price of the car|
 |Automobile Tonnage Tax (based on weight) | ¥50,000 – 75,000           | under ¥50,000             |
 |Name Change                              | ¥10,000 - ¥25,000          | ¥3,000                    |
