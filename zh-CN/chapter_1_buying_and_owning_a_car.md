@@ -86,10 +86,10 @@ A: 可以。外国人允许在日本拥有汽车。只要你愿意，你的雇�
 |                                         |白牌                 | 黄牌              |
 |-----------------------------------------|----------------------------|---------------------------|
 |车辆费用（二手）                     | ¥240,000 – 300,000         | ¥160,000 – 220,000        |
-|车辆费用（新车）                      | ¥1,000,000 and up          | under ¥1,000,000          |
-|Automobile Acquisition Tax               | 5% of the price of the car | 5% of the price of the car|
-|Automobile Tonnage Tax (based on weight) | ¥50,000 – 75,000           | under ¥50,000             |
-|Name Change                              | ¥10,000 - ¥25,000          | ¥3,000                    |
+|车辆费用（新车）                      | ¥1,000,000 以上          | ¥1,000,000 以下          |
+|自动车取得税              | 车价的 5%  | 车价的 5% |
+|自动车重量税| ¥50,000 – 75,000           | ¥50,000 以下            |
+|更名费用                              | ¥10,000 - ¥25,000          | ¥3,000                    |
 
 ### 车检
 Shaken is a required road-worthy car inspection.  You can inspect your car by yourself, but most people bring their car to a dealer, who does everything for a fee.  (If you do it yourself – and you must have a decent command of Japanese to do it – note that White Plates are inspected by the "Transport Bureau Office" and Yellow Plates are inspected by the "Light Motor Vehicle Inspection Organization".)   Most people have it done by their dealer or a gasoline stand advertising  車検.  Shaken must be renewed within one month of the expiry date as shown on the sticker in your front window.
